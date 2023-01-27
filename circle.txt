@@ -1,1 +1,3 @@
 //initial code of the circle
+
+//adding outline to half of the circle.
